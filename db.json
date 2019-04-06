@@ -1,0 +1,48 @@
+{
+  "register": [
+    {
+      "id": 1,
+      "userName": "user1",
+      "contact": "12324323",
+      "address": "address1",
+      "password": "123"
+    }
+  ],
+  "allPets": [
+    {
+      "id": 1,
+      "partName": "cat",
+      "age": "1",
+      "boughtBy": "amrendra",
+      "createdBy": "aditi",
+      "status": "New"
+    },
+    {
+      "id": 2,
+      "partName": "dog",
+      "age": "1",
+      "boughtBy": "sahmila",
+      "createdBy": "aditi",
+      "status": "New"
+    }
+  ],
+  "buyPet": [
+    {
+      "id": 1,
+      "partName": "cat",
+      "age": "1",
+      "boughtBy": "amrendra",
+      "createdBy": "aditi",
+      "status": "New"
+    },
+    {
+      "id": 2,
+      "partName": "dog",
+      "age": "1",
+      "boughtBy": "sahmila",
+      "createdBy": "aditi",
+      "status": "New"
+    }
+   
+  ]
+}

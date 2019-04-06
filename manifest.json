@@ -1,0 +1,6 @@
+{
+  "name": "petpeerstest-app",
+  "short_name": "petpeerstest-app",
+  "start_url": "/",
+  "display": "standalone"
+}
